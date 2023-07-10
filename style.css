@@ -1,0 +1,118 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: 'Belanosima', sans-serif;
+font-family: 'Geologica', sans-serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+header{
+    display: flex; 
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #fcdae2;
+    background-size: cover;
+    height: 100vh;
+}
+.banner-container{
+    
+    padding: 0 50px;
+    
+   
+   
+    
+   }
+.banner{
+
+   }
+.banner-image{
+height: 190px;
+margin-top: -280px;
+
+}
+.banner-title{
+    font-weight: bolder;
+    font-size: 45px;
+    padding-bottom: 15px;
+}
+.banner-description{
+    padding-bottom: 26px;
+    text-align: left;
+}
+.banner-btn{
+    text-decoration: none;
+    background-color: #E55473;
+    padding: 9px 18px;
+    color: aliceblue;
+    border-radius: 3px;
+    text-align: center;
+}
+/* feature section*/
+
+
+.feature-container{
+    margin-top: 120px;
+}
+
+.feature-title{
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.feature-box{
+    display: flex;
+    width: 80%;
+    margin: auto;
+   gap: 40px;
+   padding-top: 20px;
+    padding-left: 52px;
+}
+
+
+.pink-box{
+    height: 330px;
+    width: 290px;
+    background-color: #f0cbdd;
+    border-radius: 300px 300px 0 0;
+}
+.pink-flower{
+    height: 280px;
+    padding-top: 50px;
+    text-align: center;
+    padding-left: 28px;
+}
+.red-box{
+    height: 330px;
+    width: 290px;
+    background-color:rgb(247, 162, 162);
+    border-radius: 300px 300px 0 0;
+
+}
+.red-flower{
+    height: 280px;
+    padding-top: 56px;
+    text-align: center;
+    padding-left: 35px;
+
+}
+.mint-box{
+    height: 330px;
+    width: 290px;
+    background-color:rgb(176, 228, 210);
+    border-radius: 300px 300px 0 0;
+}
+.yellow-flower{
+    height: 280px;
+    padding-top: 50px;
+    text-align: center;
+    padding-left: 51px;
+
+}
+
+.tree{
+    text-align: center;
+    padding-top: 13px;
+}
