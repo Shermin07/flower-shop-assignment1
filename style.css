@@ -20,14 +20,8 @@ header{
 .banner-container{
     
     padding: 0 50px;
-    
-   
-   
-    
-   }
-.banner{
+     }
 
-   }
 .banner-image{
 height: 190px;
 margin-top: -280px;
@@ -47,7 +41,7 @@ margin-top: -280px;
     background-color: #E55473;
     padding: 9px 18px;
     color: aliceblue;
-    border-radius: 3px;
+    border-radius: 5px;
     text-align: center;
 }
 /* feature section*/
@@ -165,7 +159,7 @@ margin-top: -280px;
 }
 .sale-title{
     font-weight: bolder;
-    font-size: 30px;
+    font-size: 29px;
 }
 .sale-description{
     padding-top: 20px;
@@ -194,4 +188,30 @@ span{
     height: 280px;
     width: 230px;
     border-radius: 3px;
+}
+/*deals*/
+.deals-container{
+    background-image: url("images/Rectangle\ 9.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 77%;
+    margin: auto;
+    height: 310px;
+    margin-bottom: 20px;
+}
+.deals-description{
+    text-align: center;
+    padding-top: 85px;
+}
+.deals-title{
+    padding-bottom: 6px;
+    font-size:29px ;
+}
+.email-box{
+    width: 440px;
+    height: 42px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 28px;
+    margin-right: 12px;
 }
