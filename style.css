@@ -152,3 +152,28 @@ margin-top: -280px;
 .Support-line{
     text-align: center;
 }
+/*sale container*/
+
+.sale-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0 160px;
+    background-color: #f8eef3;
+    height: 500px;
+
+}
+.sale-title{
+    font-weight: bolder;
+    font-size: 30px;
+}
+.sale-description{
+    padding-top: 20px;
+    padding-bottom: 34px;
+}
+.sale-img{
+    height: 330px;
+}
+span{
+  color:#E55473; 
+}
