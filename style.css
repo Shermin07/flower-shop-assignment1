@@ -32,6 +32,9 @@ margin-top: -280px;
     font-size: 45px;
     padding-bottom: 15px;
 }
+.title-hover:hover{
+    color: rgb(60, 194, 60);
+}
 .banner-description{
     padding-bottom: 26px;
     text-align: left;
@@ -43,6 +46,9 @@ margin-top: -280px;
     color: aliceblue;
     border-radius: 5px;
     text-align: center;
+}
+.button-hover:hover{
+    background-color: rgb(60, 194, 60) ;
 }
 /* feature section*/
 
