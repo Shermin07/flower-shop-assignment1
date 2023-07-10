@@ -93,9 +93,9 @@ margin-top: -280px;
 }
 .red-flower{
     height: 280px;
-    padding-top: 56px;
+    padding-top: 50px;
     text-align: center;
-    padding-left: 35px;
+    padding-left: 19px;
 
 }
 .mint-box{
@@ -116,6 +116,46 @@ margin-top: -280px;
     text-align: center;
     padding-top: 13px;
 }
+
+/*more*/
+.more-container{
+    margin-top:90px ;
+}
+
+.more-options{
+    display: flex;
+    justify-content: space-around;
+}
+.more-btn{
+    margin-top: 90px;
+}
+
+.birthday{
+    display: flex;
+   align-items:center; 
+}
+.birth-title{
+    font-size: 15px;
+    
+}
+.birth{
+    padding-bottom: 17px;
+}
+.sympathy{
+    display: flex;
+    align-items:center; 
+}
+.custom{
+    display: flex; 
+    align-items:center;   
+}
+.birth-img{
+    height: 150px;
+}
+.custom{
+    height: 200px;
+}
+
 /*service-containe*/
 
 .service-container{
