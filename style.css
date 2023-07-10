@@ -118,8 +118,24 @@ margin-top: -280px;
 }
 
 /*more*/
+
+.fruit-cocktail{
+    text-align: center;
+}
+.info{
+   padding-bottom: 13px;
+   text-decoration: none;
+}
+.info-anchor{
+    text-decoration: none;
+    color: #E55473;
+}
+.info-btn{
+    padding: 9px 60px;
+}
 .more-container{
-    margin-top:90px ;
+    margin-top:110px ;
+    margin-bottom: 50px;
 }
 
 .more-options{
